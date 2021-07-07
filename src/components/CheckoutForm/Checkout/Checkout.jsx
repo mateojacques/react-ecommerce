@@ -7,7 +7,6 @@ import {
   StepLabel,
   Typography,
   CircularProgress,
-  Divider,
   Button,
   CssBaseline,
 } from '@material-ui/core'
